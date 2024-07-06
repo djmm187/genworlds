@@ -7,9 +7,9 @@ jsonschema==4.17.3
 langchain==0.0.215
 openai==0.27.4
 prompt-toolkit==3.0.38
-pydantic==1.10.7
+pydantic==1.10.8
 python-dotenv==1.0.0
-qdrant-client==1.2.0
+qdrant-client==1.9.0
 threadpoolctl==3.1.0
 tiktoken==0.4.0
 uvicorn==0.21.1
